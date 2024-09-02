@@ -6,5 +6,10 @@ public class HelloWorld {
 		System.out.println("Hello from eclipse");
 		System.out.println("Khristian is working locally on his branch");
 	}
+	
+	public void heyNow() {
+		String Msg = "Hey now!";
+		System.out.println(Msg);
+	}
 
 }
